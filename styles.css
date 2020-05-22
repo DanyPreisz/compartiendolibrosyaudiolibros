@@ -178,12 +178,14 @@
   .cards-banner-two {
     width: 100%;
     height: 200px;
+      font-size: 35px;
     background: url("./img/images.jpg") no-repeat center center/cover;
   }
   
   .cards-banner-two .content {
     width: 100%;
     padding: 100px 0 0 30px;
+      color: #ffffff;
   }
   
   /* Follow */
