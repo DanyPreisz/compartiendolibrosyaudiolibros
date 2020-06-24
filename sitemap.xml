@@ -1,60 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelahistorica.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelanegra.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/index2.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/adeadulterio.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/anibalcartago.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/bdebestias.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/cdecadaver.html</loc>
-       <lastmod>2020-05-27T16:53:02+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
+
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/autores.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelahistorica.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelafantastica.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelanegra.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelaaventuras.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelacienciaficcion.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/novelaromantica.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/ciencia.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/index2.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/adeadulterio.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/apocalipsis.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/animalesadioses.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/anibalcartago.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/autoresyobras.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/seriesysagas.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/bdebestias.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/cdecadaver.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/ddedeuda.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/edeevidencia.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/fdefugitivo.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/gdeguardaespaldas.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danypreisz.github.io/compartiendolibrosyaudiolibros/index.html</loc>
+  <lastmod>2020-06-23T23:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
